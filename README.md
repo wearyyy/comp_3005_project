@@ -1,6 +1,6 @@
 # comp_3005_project
 
-Video LinkL:
+Video Link:https://youtu.be/nXYWhexWgWM
 
 Instructions to run
 1. Navigate to the Application file using a terminal
